@@ -11,4 +11,8 @@ export const dataVideoArr = [
     name: 'Влад Тен – Что такое девопс',
     href: 'https://drive.google.com/file/d/178s03rtYoU_ugDLaeY_ZBp7Xk6q6xeaf/preview'
   }
+  {
+    name: 'Влад Тен - Что произошло с OpenAI?',
+    href: 'https://drive.google.com/file/d/1FFUhHA6p8dunx-1J0KFTB1uA-Y0x8yul/preview'
+  }
 ]
