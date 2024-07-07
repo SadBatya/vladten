@@ -1,0 +1,26 @@
+@import '../constants/variables.scss';
+
+
+.player {
+  display: flex;
+  flex-direction: column;
+  padding: 1rem;
+  width: 400px;
+  border-radius: 10px;
+  transition: .2s all;
+  cursor: pointer;
+  &:hover{
+    background-color: $video-hover-color-bg;
+    .text{
+      color: $text-hover-color;
+    }
+  }
+  .text{
+    font-weight: 600;
+  }
+}
+
+.frame{
+  width: 100%;
+  margin-bottom: 0.5rem;
+}

@@ -1,0 +1,30 @@
+@import '../constants/variables.scss';
+
+.navigation{
+  
+  padding: 2rem;
+  ul{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    gap: 20px;
+    
+
+    .navigation__button{
+      &:hover{
+        .navigation__text{
+          color: $text-hover-color;
+        }
+      }
+    }
+    li{
+      list-style: none;
+    }
+    .navigation__text{
+      color: $text-color;
+      transition: all .2s;
+    }
+  }
+}
+
+
