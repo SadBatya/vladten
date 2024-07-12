@@ -14,5 +14,9 @@ export const dataVideoArr = [
   {
     name: 'Влад Тен - Что произошло с OpenAI?',
     href: 'https://drive.google.com/file/d/1FFUhHA6p8dunx-1J0KFTB1uA-Y0x8yul/preview'
+  },
+  {
+    name: 'Система букинга и Priority Queue _ Зачем мне это нужно от Влада Тен',
+    href: 'https://drive.google.com/file/d/182FRuYT6-e6j8ydoU4obyXO0rC1nybOA/preview'
   }
 ]
