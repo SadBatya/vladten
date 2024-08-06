@@ -31,4 +31,8 @@ export const dataVideoArr = [
     name: 'Почему распределенные системы это сложно_ Систем дизайн в Зачем мне это надо от Влада Тен_',
     href: 'https://drive.google.com/file/d/1HXM3rUfs9zRht11_KkWNm8FPy1YN5JEG/preview'
   }
+  {
+    name: 'Пишем свою Хэш Таблицу _ Курс по Алгоритмам от Влада Тен',
+    href: 'https://drive.google.com/file/d/1mbb5lk0FHZxy18K8MOzrxrgeIWYnXd9R/preview'
+  }
 ]
