@@ -35,4 +35,8 @@ export const dataVideoArr = [
     name: "Пишем свою Хэш Таблицу _ Курс по Алгоритмам от Влада Тен",
     href: "https://drive.google.com/file/d/1mbb5lk0FHZxy18K8MOzrxrgeIWYnXd9R/preview",
   },
+  {
+    name: '1010',
+    href: 'https://drive.google.com/file/d/1wglcQJ-tawefeQgEEiXmQI9rZNkO4YV1/preview'
+  }
 ];
